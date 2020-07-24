@@ -1,0 +1,12 @@
+en git existen 3 estados
+el primero es el working directory que es tu carpeta local
+el segundo es staging area que es donde se almacena todo antes de hacer commit
+y el tercero es git repository que es el repositorio
+
+cuando haces cambios usas git add . el punto es para que agrege todo o definis un archivo en co
+ncreto
+
+despues haces un git commit -m "mensaje", el commit es para subir lso cambios y el -m para pone
+s comentario de que has modificado o creado
+
+despues haces un git push que seria para subir los cambios al repositorio
